@@ -14,6 +14,3 @@ Web Github: https://github.com/AscelineHogge/css-framework-challenge
 
 Web link: https://ascelinehogge.github.io/css-framework-challenge/
 
-## Template.
-![Template](https://raw.githubusercontent.com/becodeorg/LIE-Jepsen-4.27/master/01-the-field/04-html-css/02-css/06-css-frameworks/images/exercise-1.png?token=ASFA575YJMAHLI367VQCPLTAC7MKM)
-
